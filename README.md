@@ -1,14 +1,17 @@
 # about-me
 Sidney Stein
+
 sidneys9656@hstat.org
+
 HSTAT
+
 no bio
 
-pd1:Spanish 5
-pd2:Global history
-pd3:Chemistry
-pd4:Lunch 
-pd5:PE
-pd6:SEP
-pd7:English
-pd8:algebra 2
+1. Spanish 5
+2. Global history
+3. Chemistry
+4. Lunch 
+5. PE
+6. SEP
+7. English
+8. algebra 2
