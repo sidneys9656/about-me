@@ -5,7 +5,8 @@ sidneys9656@hstat.org
 
 HSTAT
 
-no bio
+BIO:
+Hobbies? (Ex: Sports)
 
 1. Spanish 5
 2. Global history
